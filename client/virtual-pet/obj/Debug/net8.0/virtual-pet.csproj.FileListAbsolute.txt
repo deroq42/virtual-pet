@@ -1,0 +1,14 @@
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\bin\Debug\net8.0\virtual-pet.exe
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\bin\Debug\net8.0\virtual-pet.deps.json
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\bin\Debug\net8.0\virtual-pet.runtimeconfig.json
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\bin\Debug\net8.0\virtual-pet.dll
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\bin\Debug\net8.0\virtual-pet.pdb
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.AssemblyInfoInputs.cache
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.AssemblyInfo.cs
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.csproj.CoreCompileInputs.cache
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.dll
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\refint\virtual-pet.dll
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.pdb
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\virtual-pet.genruntimeconfig.cache
+C:\Users\Miles\Documents\C#\virtual-pet\virtual-pet\obj\Debug\net8.0\ref\virtual-pet.dll
